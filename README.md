@@ -1,6 +1,6 @@
 # Propose your GF/BF using React Love Letter
 
-Developed by [Dodagatta Nihar](https://instagram.com/niihaaarrrr)
+Developed by [Shenkeshi Nagaraju](https://instagram.com/nag_shenkeshi)
 Website Link: [Click Here](https://react-love-letter.vercel.app)
 
 ### How to use this?
